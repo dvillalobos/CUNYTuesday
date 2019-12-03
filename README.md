@@ -8,11 +8,15 @@ We are looking forward to welcoming you tomorrow, December 3, to the CUNY SPS #C
 
 # #CUNYTuesday workshops include: 
 
-James Hamski (MS in Data Analytics ‘17) who will discuss how working at the intersection of data science and product management means making analytics actionable
-Saheli Kar (MS in Data Analytics ‘17) who will discuss reinforcement learning, the third type of machine learning approach where the machine learns from feedback from its action. Reinforcement learning is used in different industries, including banks, healthcare, robotics, and many more
-Jamiel Sheikh (CEO, Chainhaus and CUNY SPS Faculty) who will lead discussions about blockchain technology, real career opportunities, and pitfalls
-Duubar Villalobos Jimenez (MS in Data Science Student) who will discuss his Capstone project titled "Youtube's Automated Speech Recognition, Automated Captioning, and Sentiment Analysis from Non-native English Speakers with Foreign Accents"
-With a very special guest speaker, Shaun Stewart (CEO of New Lab) who will discuss his work on Google X’s self-driving car project as well as entrepreneurship opportunities and technology applications within various industries.
+- James Hamski (MS in Data Analytics ‘17) who will discuss how working at the intersection of data science and product management means making analytics actionable.
+
+- Saheli Kar (MS in Data Analytics ‘17) who will discuss reinforcement learning, the third type of machine learning approach where the machine learns from feedback from its action. Reinforcement learning is used in different industries, including banks, healthcare, robotics, and many more.
+
+- Jamiel Sheikh (CEO, Chainhaus and CUNY SPS Faculty) who will lead discussions about blockchain technology, real career opportunities, and pitfalls.
+
+- Duubar Villalobos Jimenez (MS in Data Science Student) who will discuss his Capstone project titled "Youtube's Automated Speech Recognition, Automated Captioning, and Sentiment Analysis from Non-native English Speakers with Foreign Accents".
+
+**With a very special guest speaker**, Shaun Stewart (CEO of New Lab) who will discuss his work on Google X’s self-driving car project as well as entrepreneurship opportunities and technology applications within various industries.
 
 
 # #CUNYTuesday Celebration
